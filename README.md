@@ -24,9 +24,6 @@ Test-Setter uses only on open source projects to work properly:
 - [Java] - Test Setter uses 100% java!
 - [Ms access] - used as a database!
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
-
 ## Installation
 
 Test-Setter requires JDK to run.
